@@ -1,0 +1,105 @@
+/* Enter your custom styles here */
+
+.titleM{
+    font-size: 0.975rem;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.titleDWR{
+    font-size: 0.995rem;
+    margin-top: 40px;
+}
+
+.titleFD{
+    font-size: 0.995rem;
+}
+
+.titleMNC{
+    font-size: 1.1rem;
+    margin-top: 10px;
+}
+
+.titledate{
+    font-size: 0.975rem;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+.titleMr{
+    text-align: right;
+    font-size: 0.975rem;
+    margin-right: 40px;
+    margin-top: 40px;    
+}
+
+.titleOpNme{
+    font-size: 0.995rem;
+}
+
+.HeaderLabelM{
+    font-size: 0.975rem;
+    margin-left: 40px;
+}
+
+.comboLabel{
+    margin-left: 47px;
+    margin-right: 4px;
+    margin-top: 7.5px;
+    font-size: 0.975rem;
+    width: 225px;    
+}
+
+.comboLabel2{
+    margin-left: 10px;
+    margin-right: 4px;
+    margin-top: 7.5px;
+    font-size: 0.975rem;
+    width: 180px;    
+}
+
+.icon{
+    margin-left: 15px;
+    margin-right: 50px;
+    margin-top: 3px;
+    font-size: 0.975rem; 
+}
+
+.btn{
+    margin-left: 70px;
+}
+
+.rmrks{
+    margin-left: 47px;
+}
+
+.lblSubmit{
+    margin-top: 48px;
+    margin-bottom: 40px;
+    margin-left: 4px;
+    height: 200%;
+    font-size: 1rem;
+}
+
+.btnSubmit{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.TblTitle{
+    font-size: 0.975rem;
+    margin-left: 47px;
+}
+
+.wcdTble{
+    margin-left: 24px;
+}
+
+.tablefont{
+    font-weight: bolder;
+    font-size: 150px;
+}
+
+.table{
+    background-color: rgb(245, 245, 245);
+}
